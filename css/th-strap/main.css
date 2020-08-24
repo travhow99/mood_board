@@ -1,0 +1,15 @@
+.th-container {
+    width: 1120px;
+    max-width: 80%;
+    margin: auto;
+}
+
+.th-jumbotron {
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+/** Image Styles */
+.img-fluid {
+    max-width: 100%;
+}

@@ -1,0 +1,17 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #333;
+
+$text-light: #e2e2e2;
+$highlight-color: #ff6600;
+$bg-primary: #fff;
+$bg-secondary: #333;
+$bg-light: #e2e2e2;
+
+.th-jumbotron {
+    background: $bg-secondary;
+    color: $text-light;
+
+    img {
+        max-height: 120px;
+    }
+}
